@@ -8,3 +8,5 @@ Pinterest-style wall of LIVE embedded tweets.
 - 42 seed tweets (23 ETHConf, 19 ETHGlobal New York)
 
 Static site (no build). Deploys on Vercel automatically on every push to this repo.
+
+<!-- v2: add-tweet reveals on add; deployed via Git -->
